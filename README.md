@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pavant6585
-- 👀 I’m interested in learning new technologies that make our life better
-- 🌱 I’m currently learning to code efficiently and effectively
-- 💞️ I’m looking to collaborate on Image data/video enhancement, voice/ speech recognition and enhancement etc
-- 📫 How to reach me pavant6585@gmail.com
+- 👀 I’m interested in learning new technologies that make our life better.
+- 🌱 I’m Post Graduate in AI & ML @ M S Ramaiah University Of Applied Science.
+- 💞️ I’m looking to collaborate on Future Technologies that work with AI, Generative AI, Large Language Models Etc.
+- 📫 You can to reach me at pavant6585@gmail.com, wa.me @ +91 7760066103.
 
 <!---
 pavant6585/pavant6585 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
